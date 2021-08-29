@@ -1,3 +1,3 @@
-# nengi tutorials
-this repo holds the source code for various nengi tutorials, each on a separate branch
-```
+# A Boundless Ocean
+
+An exploration based mmo created for shark hacks 3
