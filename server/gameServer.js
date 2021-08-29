@@ -23,8 +23,8 @@ instance.on('connect', ({ client, callback }) => {
     client.view = {
         x: entity.x,
         y: entity.y,
-        halfWidth: 500,
-        halfHeight: 500
+        halfWidth: 2000,
+        halfHeight: 2000
     }
 })
 

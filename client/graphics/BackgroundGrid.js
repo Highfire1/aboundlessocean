@@ -12,7 +12,7 @@ class BackgroundGrid extends Container {
             this.addChild(line)
         }
 
-        for (let i = 0; i < 11; i++) {
+        for (let i = 0; i < 30; i++) {
             let line = new Graphics()
             line.lineStyle(2, 0x333333)
             line.moveTo(0, i * 100)
